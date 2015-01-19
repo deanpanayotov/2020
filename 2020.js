@@ -17,16 +17,16 @@ var years = document.getElementById("years");
 var timer = function(){
     var accum = (new Date(2020,1,1,0,0,0)) - (new Date());
     accum /= 1000;
-    seconds.innerHTML = accum;
+    seconds.innerHTML = accum.toFixed(0);
     accum /= 60;
-    minutes.innerHTML = accum;
+    minutes.innerHTML = accum.toFixed(2);
     accum /= 60;
-    hours.innerHTML = accum;
+    hours.innerHTML = accum.toFixed(2);
     accum /=24;
-    days.innerHTML = accum;
-    weeks.innerHTML = accum/WEEK;
-    months.innerHTML = accum/MONTH;
-    years.innerHTML = accum/YEAR;
+    days.innerHTML = accum.toFixed(2);
+    weeks.innerHTML = (accum/WEEK).toFixed(2);
+    months.innerHTML = (accum/MONTH).toFixed(2);
+    years.innerHTML = (accum/YEAR).toFixed(2);
 };
 
 window.setInterval("timer()", 1000);
