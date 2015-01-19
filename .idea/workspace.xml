@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81675927-5561-494f-8d6b-d45026b9667a" name="Default" comment="" />
+    <list default="true" id="81675927-5561-494f-8d6b-d45026b9667a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2020.html" afterPath="$PROJECT_DIR$/2020.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2020.js" afterPath="$PROJECT_DIR$/2020.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="2020.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +30,18 @@
       <file leaf-file-name="2020.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="391">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2020.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,10 +50,10 @@
       <file leaf-file-name="2020.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2020.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.02182285" vertical-offset="0" max-vertical-offset="779">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3055199" vertical-offset="0" max-vertical-offset="779">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
-                <element signature="n#!!doc;n#parseDate#0" expanded="false" />
+                <element signature="e#0#59#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -218,20 +232,28 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2020.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="779">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2020.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="391">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2020.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02182285" vertical-offset="0" max-vertical-offset="779">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3055199" vertical-offset="0" max-vertical-offset="779">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
-            <element signature="n#!!doc;n#parseDate#0" expanded="false" />
+            <element signature="e#0#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
