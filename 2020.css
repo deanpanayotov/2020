@@ -7,11 +7,10 @@ body {
     margin-right: auto;
     color: #FAE6D2;
     font-family: 'Droid Sans', sans-serif;
-    font-size: 600%;
-    padding-top: 10%;
-    padding-left: 10%;
-    padding-right: 10%;
+    font-size: 500%;
+    padding: 10%;
     display:block;
+    text-shadow: 4px 4px #542917;
 }
 
 .pp {
