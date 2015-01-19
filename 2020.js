@@ -15,7 +15,7 @@ var months = document.getElementById("months");
 var years = document.getElementById("years");
 
 var timer = function(){
-    var accum = (new Date(2020,1,1,0,0,0)) - (new Date());
+    var accum = (new Date(2020,0,0,0,0,0)) - (new Date());
     accum /= 1000;
     seconds.innerHTML = accum.toFixed(0);
     accum /= 60;
